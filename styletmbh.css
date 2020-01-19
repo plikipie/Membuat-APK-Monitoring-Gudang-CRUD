@@ -1,0 +1,8 @@
+.container {
+    padding-top: 30px;
+}
+
+form ul li {
+    width: auto;
+    list-style-type: none;
+}

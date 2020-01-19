@@ -1,0 +1,10 @@
+.container {
+    padding-top: 120px;
+    background-image: url(img/LOGO_BSSN.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+
+.text {
+    padding-left: 100px;
+}
